@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: ai-services#命名空间 隔离业务 
+  name: ai-services
 ---
 apiVersion: apps/v1
 kind: Deployment
